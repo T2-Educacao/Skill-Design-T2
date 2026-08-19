@@ -9,7 +9,7 @@
 
   /* ── T2 Brand Colors ── */
   --t2-blue:   #0097D9;  /* Curious-Blue — primário: CTA, links, destaques */
-  --t2-dark:   #001424;  /* Azul-marinho institucional (footer) */
+  --t2-dark:   #0a0b26;  /* Azul-marinho institucional (footer) — atualizado 2026-08-19 */
   --t2-teal:   #36efc7;  /* Verde-menta terciário */
   --t2-yellow: #FEE575;  /* Destaques/hovers */
   --t2-green:  #1FA98A;  /* Sucesso, aprovação */
@@ -32,8 +32,8 @@
   --warning:      #d97706;  --warning-soft: #46320a;
   --danger:       #dc2626;  --danger-soft:  #450e0e;
 
-  /* ── Superfícies (família Dark Knight) ── */
-  --bg:            #171b2f;  --bg-2: #1c2138;
+  /* ── Superfícies (família Dark Knight, atualizado para #0A0B26 em 2026-08-19) ── */
+  --bg:            #0a0b26;  --bg-2: #1c2138;
   --bg-3:          #232a47;  --bg-4: #2a3255;
   --fg:            #f8f9fc;  --fg-2: #b8c0d4;
   --fg-3:          #7a8298;
